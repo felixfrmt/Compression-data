@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/eisti/Documents/ing2_bis/Programmation_fonctionnelle/projet scala/compress-todo/compress/src/main/scala/ObjetTest.scala:4:1: identifier expected but 'object' found.[0m
+[0m[[0m[31merror[0m] [0m[0mobject TestRLE{[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eisti/Documents/ing2_bis/Programmation_fonctionnelle/projet scala/compress-todo/compress/src/main/scala/ObjetTest.scala:309:2: '}' expected but eof found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

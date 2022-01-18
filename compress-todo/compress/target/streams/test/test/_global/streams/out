@@ -1,0 +1,46 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(compress.statistic.EncodingTreeSpec, org.scalatest.tools.Framework$$anon$1@11583341, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(compress.lz.LZWSpec, org.scalatest.tools.Framework$$anon$1@11583341, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(compress.lz.LZ78Spec, org.scalatest.tools.Framework$$anon$1@11583341, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(compress.statistic.HuffmanSpec, org.scalatest.tools.Framework$$anon$1@11583341, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(compress.statistic.ShannonFanoSpec, org.scalatest.tools.Framework$$anon$1@11583341, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(compress.RLESpec, org.scalatest.tools.Framework$$anon$1@11583341, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mShannonFanoSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcompressor.statistic.ShannonFano[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEncodingTreeSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcompress.statistic.EncodingTree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must exist along with its child case classes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain methods `has` and `meanLength` with correct signature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contains extended methods `encode`, `decodeOnce` and `decode` with correct signature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain methods `compress` and `uncompress` with correct signature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain fields `entropy`, `occurrences` and `orderedCounts` with correct type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRLESpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcompress.RLE[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contains methods `compress` and `uncompress` with correct signature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mHuffmanSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcompressor.statistic.Huffman[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain methods `compress` and `uncompress` with correct signature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain fields `entropy`, `occurrences`, `orderedCounts` and `meanLength` with correct type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLZ78Spec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcompressor.lz.LZ78[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain methods `compress` and `uncompress` with correct signature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLZWSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcompressor.lz.LZW[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain methods `compress` and `uncompress` with correct signature[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must contain field `initialDictionary` with correct type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 483 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 16[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 6, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 16, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compress.lz.LZ78Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compress.RLESpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compress.statistic.EncodingTreeSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compress.statistic.HuffmanSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compress.statistic.ShannonFanoSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	compress.lz.LZWSpec[0m

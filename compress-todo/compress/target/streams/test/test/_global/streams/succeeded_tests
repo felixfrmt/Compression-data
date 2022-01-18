@@ -1,0 +1,8 @@
+#Successful Tests
+#Wed Dec 08 12:37:54 CET 2021
+compress.statistic.HuffmanSpec=1638963474636
+compress.RLESpec=1638963474636
+compress.lz.LZ78Spec=1638963474636
+compress.statistic.ShannonFanoSpec=1638963474636
+compress.statistic.EncodingTreeSpec=1638963474636
+compress.lz.LZWSpec=1638963474640
